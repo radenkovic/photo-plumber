@@ -9,10 +9,15 @@ A simple CLI tool to resize images to multiple sizes, then upload them to __AWS 
 ## Getting started
 
 
-`git clone https://github.com/radenkovic/photo-plumber`
-`yarn`
-Edit `.env.example` and rename it to `.env`
-`yarn start`
+1. `git clone https://github.com/radenkovic/photo-plumber`
+
+2. `yarn`
+
+3. Edit `.env.example` and rename it to `.env`
+
+4. Add some photos in the `input` folder
+
+5. `yarn start` and enjoy!
 
 ## The Pipeline
 
