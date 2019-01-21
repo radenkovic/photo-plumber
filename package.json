@@ -1,0 +1,40 @@
+{
+  "name": "image-resize-pipe",
+  "version": "0.0.1",
+  "description": "Resize images to multiple sizes, store them on AWS S3 and in MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "resize": "node bin/resize",
+    "upload": "node bin/upload",
+    "store": "node bin/store",
+    "delete": "node bin/delete",
+    "clear": "node bin/clear",
+    "clear:input": "node bin/clear-input",
+    "stats": "node bin/stats",
+    "start": "yarn resize && yarn upload && yarn store && yarn clear"
+  },
+  "author": "Dan Radenkovic",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.391.0",
+    "colors": "^1.3.3",
+    "dotenv": "^6.2.0",
+    "js-yaml": "^3.12.1",
+    "lodash": "^4.17.11",
+    "md5-file": "^4.0.0",
+    "moment": "^2.23.0",
+    "mongoose": "^5.4.5",
+    "rimraf": "^2.6.3",
+    "sharp": "^0.21.3",
+    "shortid": "^2.2.14",
+    "uniqid": "^5.0.3",
+    "yargs": "^12.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.1",
+    "eslint-config-prettier": "^3.6.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.16.0"
+  }
+}
