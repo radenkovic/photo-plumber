@@ -22,7 +22,7 @@ A simple CLI tool to resize images to multiple sizes, then upload them to __AWS 
 ## The Pipeline
 
 
-![Flow](https://i.imgur.com/6Fr8nXG.png)
+![Flow](https://i.imgur.com/PYOb97L.png)
 
 
 ## Commands
