@@ -1,7 +1,7 @@
 {
-  "name": "image-resize-pipe",
+  "name": "photo-plumber",
   "version": "0.0.1",
-  "description": "Resize images to multiple sizes, store them on AWS S3 and in MongoDB",
+  "description": "A CLI tool to resize images to multiple sizes, store them on AWS S3 and in MongoDB",
   "main": "index.js",
   "scripts": {
     "resize": "node bin/resize",
