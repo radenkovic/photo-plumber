@@ -21,7 +21,9 @@ A simple CLI tool to resize images to multiple sizes, then upload them to __AWS 
 
 ## The Pipeline
 
-TBD. 
+
+![Flow](https://i.imgur.com/6Fr8nXG.png)
+
 
 ## Commands
 

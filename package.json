@@ -11,7 +11,7 @@
     "clear": "node bin/clear",
     "clear:input": "node bin/clear-input",
     "stats": "node bin/stats",
-    "start": "yarn resize && yarn upload && yarn store && yarn clear"
+    "start": "yarn resize && yarn upload && yarn store"
   },
   "author": "Dan Radenkovic",
   "license": "ISC",
