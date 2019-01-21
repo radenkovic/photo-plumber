@@ -3,7 +3,7 @@
 A simple CLI tool to resize images to multiple sizes, then upload them to __AWS S3__ and store data in __MongoDB__ with a single command.
 
 
-![Photo Plumber GIF](https://i.imgur.com/tAfeY9S.gif)
+![Photo Plumber GIF](https://i.imgur.com/7muzzbK.gif)
 
 
 ## Getting started

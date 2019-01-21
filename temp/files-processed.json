@@ -1,0 +1,212 @@
+[
+  {
+    "longitude": null,
+    "latitude": null,
+    "date": null,
+    "id": "f78893bcb34fa9b88b1f92349eac7428",
+    "uploaded": true,
+    "stored_in_database": true,
+    "s3_bucket": "upload-test-dan",
+    "s3_directory": "samples",
+    "created_at": 1548113868,
+    "size_ids": [
+      "small",
+      "medium"
+    ],
+    "sizes": {
+      "small": {
+        "width": 200,
+        "height": 200,
+        "fit": "cover",
+        "quality": 100,
+        "sharpen": {
+          "sigma": 0.6,
+          "flat": 1,
+          "jagged": 0.9
+        },
+        "input_path": "/Users/dan/Projects/radenkovic-image-resize/input/cat1.jpg",
+        "input_filename": "cat1.jpg",
+        "url": "https:/s3.amazonaws.com/upload-test-dan/samples/f78893bcb34fa9b88b1f92349eac7428/f78893bcb34fa9b88b1f92349eac7428_small.jpg",
+        "s3_bucket": "upload-test-dan",
+        "s3_key": "samples/f78893bcb34fa9b88b1f92349eac7428/f78893bcb34fa9b88b1f92349eac7428_small.jpg",
+        "output_path": "/Users/dan/Projects/radenkovic-image-resize/temp/f78893bcb34fa9b88b1f92349eac7428_small.jpg",
+        "output_filename": "f78893bcb34fa9b88b1f92349eac7428_small.jpg",
+        "resize_info": {
+          "format": "jpeg",
+          "width": 200,
+          "height": 200,
+          "channels": 3,
+          "premultiplied": false,
+          "size": 49644
+        }
+      },
+      "medium": {
+        "width": 640,
+        "height": 480,
+        "fit": "inside",
+        "quality": 95,
+        "sharpen": {
+          "sigma": 0.8,
+          "flat": 1,
+          "jagged": 0.9
+        },
+        "input_path": "/Users/dan/Projects/radenkovic-image-resize/input/cat1.jpg",
+        "input_filename": "cat1.jpg",
+        "url": "https:/s3.amazonaws.com/upload-test-dan/samples/f78893bcb34fa9b88b1f92349eac7428/f78893bcb34fa9b88b1f92349eac7428_medium.jpg",
+        "s3_bucket": "upload-test-dan",
+        "s3_key": "samples/f78893bcb34fa9b88b1f92349eac7428/f78893bcb34fa9b88b1f92349eac7428_medium.jpg",
+        "output_path": "/Users/dan/Projects/radenkovic-image-resize/temp/f78893bcb34fa9b88b1f92349eac7428_medium.jpg",
+        "output_filename": "f78893bcb34fa9b88b1f92349eac7428_medium.jpg",
+        "resize_info": {
+          "format": "jpeg",
+          "width": 640,
+          "height": 426,
+          "channels": 3,
+          "premultiplied": false,
+          "size": 102858
+        }
+      }
+    },
+    "extension": ".jpg"
+  },
+  {
+    "longitude": null,
+    "latitude": null,
+    "date": null,
+    "id": "e6db98755333c94d707661df45560b8c",
+    "uploaded": true,
+    "stored_in_database": true,
+    "s3_bucket": "upload-test-dan",
+    "s3_directory": "samples",
+    "created_at": 1548113868,
+    "size_ids": [
+      "small",
+      "medium"
+    ],
+    "sizes": {
+      "small": {
+        "width": 200,
+        "height": 200,
+        "fit": "cover",
+        "quality": 100,
+        "sharpen": {
+          "sigma": 0.6,
+          "flat": 1,
+          "jagged": 0.9
+        },
+        "input_path": "/Users/dan/Projects/radenkovic-image-resize/input/cat2.jpg",
+        "input_filename": "cat2.jpg",
+        "url": "https:/s3.amazonaws.com/upload-test-dan/samples/e6db98755333c94d707661df45560b8c/e6db98755333c94d707661df45560b8c_small.jpg",
+        "s3_bucket": "upload-test-dan",
+        "s3_key": "samples/e6db98755333c94d707661df45560b8c/e6db98755333c94d707661df45560b8c_small.jpg",
+        "output_path": "/Users/dan/Projects/radenkovic-image-resize/temp/e6db98755333c94d707661df45560b8c_small.jpg",
+        "output_filename": "e6db98755333c94d707661df45560b8c_small.jpg",
+        "resize_info": {
+          "format": "jpeg",
+          "width": 200,
+          "height": 200,
+          "channels": 3,
+          "premultiplied": false,
+          "size": 39431
+        }
+      },
+      "medium": {
+        "width": 640,
+        "height": 480,
+        "fit": "inside",
+        "quality": 95,
+        "sharpen": {
+          "sigma": 0.8,
+          "flat": 1,
+          "jagged": 0.9
+        },
+        "input_path": "/Users/dan/Projects/radenkovic-image-resize/input/cat2.jpg",
+        "input_filename": "cat2.jpg",
+        "url": "https:/s3.amazonaws.com/upload-test-dan/samples/e6db98755333c94d707661df45560b8c/e6db98755333c94d707661df45560b8c_medium.jpg",
+        "s3_bucket": "upload-test-dan",
+        "s3_key": "samples/e6db98755333c94d707661df45560b8c/e6db98755333c94d707661df45560b8c_medium.jpg",
+        "output_path": "/Users/dan/Projects/radenkovic-image-resize/temp/e6db98755333c94d707661df45560b8c_medium.jpg",
+        "output_filename": "e6db98755333c94d707661df45560b8c_medium.jpg",
+        "resize_info": {
+          "format": "jpeg",
+          "width": 640,
+          "height": 448,
+          "channels": 3,
+          "premultiplied": false,
+          "size": 81419
+        }
+      }
+    },
+    "extension": ".jpg"
+  },
+  {
+    "longitude": null,
+    "latitude": null,
+    "date": null,
+    "id": "61e7926acf545b0505331322da799256",
+    "uploaded": true,
+    "stored_in_database": true,
+    "s3_bucket": "upload-test-dan",
+    "s3_directory": "samples",
+    "created_at": 1548113868,
+    "size_ids": [
+      "small",
+      "medium"
+    ],
+    "sizes": {
+      "small": {
+        "width": 200,
+        "height": 200,
+        "fit": "cover",
+        "quality": 100,
+        "sharpen": {
+          "sigma": 0.6,
+          "flat": 1,
+          "jagged": 0.9
+        },
+        "input_path": "/Users/dan/Projects/radenkovic-image-resize/input/cat3.jpg",
+        "input_filename": "cat3.jpg",
+        "url": "https:/s3.amazonaws.com/upload-test-dan/samples/61e7926acf545b0505331322da799256/61e7926acf545b0505331322da799256_small.jpg",
+        "s3_bucket": "upload-test-dan",
+        "s3_key": "samples/61e7926acf545b0505331322da799256/61e7926acf545b0505331322da799256_small.jpg",
+        "output_path": "/Users/dan/Projects/radenkovic-image-resize/temp/61e7926acf545b0505331322da799256_small.jpg",
+        "output_filename": "61e7926acf545b0505331322da799256_small.jpg",
+        "resize_info": {
+          "format": "jpeg",
+          "width": 200,
+          "height": 200,
+          "channels": 3,
+          "premultiplied": false,
+          "size": 51812
+        }
+      },
+      "medium": {
+        "width": 640,
+        "height": 480,
+        "fit": "inside",
+        "quality": 95,
+        "sharpen": {
+          "sigma": 0.8,
+          "flat": 1,
+          "jagged": 0.9
+        },
+        "input_path": "/Users/dan/Projects/radenkovic-image-resize/input/cat3.jpg",
+        "input_filename": "cat3.jpg",
+        "url": "https:/s3.amazonaws.com/upload-test-dan/samples/61e7926acf545b0505331322da799256/61e7926acf545b0505331322da799256_medium.jpg",
+        "s3_bucket": "upload-test-dan",
+        "s3_key": "samples/61e7926acf545b0505331322da799256/61e7926acf545b0505331322da799256_medium.jpg",
+        "output_path": "/Users/dan/Projects/radenkovic-image-resize/temp/61e7926acf545b0505331322da799256_medium.jpg",
+        "output_filename": "61e7926acf545b0505331322da799256_medium.jpg",
+        "resize_info": {
+          "format": "jpeg",
+          "width": 640,
+          "height": 426,
+          "channels": 3,
+          "premultiplied": false,
+          "size": 119093
+        }
+      }
+    },
+    "extension": ".jpg"
+  }
+]
