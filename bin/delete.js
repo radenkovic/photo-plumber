@@ -15,7 +15,7 @@ async function batchDelete(ids, bucket, dir) {
     const deleted = await del(toRemove, bucket);
     console.log(
       `${deleted.reduce((a, v) => a + v)}`.green,
-      'images removed from S3:'
+      'images removed from S3'
     );
     // Remove from Mongo
     await connect();

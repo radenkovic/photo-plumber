@@ -1,9 +1,9 @@
 # output.json fields
 id_create: md5 # can be md5 | shortId | uniqId (defaults to uniqId)
 upload:
-  s3_directory: 'samples'
-  s3_bucket: 'upload-test-dan'
-  cloudfront_url: '' # with https://
+  s3_directory: 'photos'
+  s3_bucket: 'radenkovic-next'
+  cloudfront_url: 'https://d10fa6j1rp3gih.cloudfront.net' # with https://
 # will be included in database (optional)
 metadata:
   longitude: null
