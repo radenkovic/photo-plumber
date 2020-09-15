@@ -23,7 +23,7 @@
     "lodash": "^4.17.11",
     "md5-file": "^4.0.0",
     "moment": "^2.23.0",
-    "mongoose": "^5.4.5",
+    "mongoose": "^5.7.5",
     "rimraf": "^2.6.3",
     "sharp": "^0.21.3",
     "shortid": "^2.2.14",
